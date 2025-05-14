@@ -1,6 +1,8 @@
 # base16-Chicago
 A [base16](https://github.com/chriskempson/base16) theme based on Chicago's beautiful rapid transit system.  
 
+![](img/ctatrademarks.png)
+
 ## About
 Each of the 8 accent colors corresponds to a CTA train line: Red, Orange, Yellow, Green, Blue, Purple, Pink, and Brown.
 
