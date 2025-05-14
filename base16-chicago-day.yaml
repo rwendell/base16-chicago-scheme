@@ -1,5 +1,5 @@
-scheme: "base16-chicago-light"
-author: "rwendell"
+scheme: "base16-chicago-day"
+author: "Wendell, Ryan <ryanjwendell@gmail.com>"
 
 base00 : "#f0f5f0"
 base01 : "#e6efea"
