@@ -1,18 +1,28 @@
 scheme: "Chicago Day"
 author: "Wendell, Ryan <ryanjwendell@gmail.com>"
-base00: "f0f5f0"
-base01: "e6efea"
-base02: "cddbd1"
-base03: "8a9a8f"
-base04: "5c6e60"
-base05: "3e4c40"
-base06: "7a8b7f"
-base07: "2a3c30"
-base08: "c60c30"
-base09: "f9461c"
-base0A: "BDAD00"
-base0B: "009b3a"
-base0C: "00a1de"
-base0D: "522398"
-base0E: "e27ea6"
-base0F: "62361b"
+base00: "1e2a24"  # Default Background (Very Dark Ivy Green)
+base01: "2a3b32"  # Lighter Background (Dark Ivy Green)
+base02: "364c40"  # Selection Background (Medium-Dark Ivy Green)
+base03: "5f7368"  # Comments, Invisibles (Desaturated Ivy, lighter than base)
+base04: "8a9a91"  # Dark Foreground / Secondary Text (Weathered Green Stone)
+base05: "a7b8af"  # Default Foreground / Main Text (Light Greenish Grey)
+base06: "c1cdc7"  # Light Foreground / Bright Highlights (Very Light Greenish Grey)
+base07: "dbe3de"  # Light Background / Strongest Highlights (Pale Green Tint)
+
+base08: "c60c30"  # CTA Red Line
+base09: "f9461c"  # CTA Orange Line
+base0A: "f9e300"  # CTA Yellow Line (original vibrant for dark theme)
+base0B: "009b3a"  # CTA Green Line
+base0C: "00a1de"  # CTA Blue Line
+base0D: "522398"  # CTA Purple Line
+base0E: "e27ea6"  # CTA Pink Line
+base0F: "62361b"  # CTA Brown Line
+
+base10: "284030"  # Slightly more saturated version of base01
+base11: "74867C"  # Bridge between base03 and base04
+base12: "2E4036"  # Darker, more intense version of base02
+base13: "9CAAA1"  # Lighter, less saturated version of base04
+base14: "EAF0EC"  # Very light green, almost white, for highlights
+base15: "15201A"  # Very dark green, almost black, for deep contrast
+base16: "6D8076"  # Mid-tone desaturated green, different from base03
+base17: "223028"  # Slightly brighter/more vivid version of base00
