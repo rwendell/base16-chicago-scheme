@@ -1,7 +1,7 @@
 name:     "Chicago Night"
 author:   "Wendell, Ryan <ryanjwendell@gmail.com>"
 variant:  "dark"
-system:   "base24"
+system:   "base16"
 palette:
   base00: "1e2a24"  # Default Background (Very Dark Ivy Green)
   base01: "2a3b32"  # Lighter Background (Dark Ivy Green)
