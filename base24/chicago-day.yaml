@@ -28,6 +28,6 @@ palette:
   base12: "CDE0D5"  # Lighter, less saturated version of base02
   base13: "405048"  # Darker, more intense version of base04 (Wrigley)
   base14: "15201A"  # Very dark green, for text or borders
-  base15: "F0F5F2"  # Very light green, almost white, for backgrounds
+  base15: "FCFDFC"   # Very light green, almost white, for backgrounds
   base16: "A0B0A8"  # Mid-tone desaturated green, different from base03
   base17: "EEF4EE"  # Slightly brighter/more vivid version of base00
